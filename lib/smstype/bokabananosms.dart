@@ -16,7 +16,7 @@ class _BokabanoSMSState extends State<BokabanoSMS> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        appBar: AppBar(title: Text("োকা বানানোর এসএমএস"),),
+        appBar: AppBar(title: Text("  এসএমএস"),),
         body: Container(
           height: double.infinity,
           width: double.infinity,

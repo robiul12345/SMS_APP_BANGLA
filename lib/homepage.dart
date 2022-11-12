@@ -19,7 +19,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("MIM APUR SMS"),
+        title: Text("Bangla SMS"),
       ),
       body: Container(
         height: double.infinity,
